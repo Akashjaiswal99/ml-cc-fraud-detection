@@ -1,3 +1,2 @@
-# ml-cc-fraud-detection
-
-credit_card_fraud_detection Credit Card Fraud detection based on anonymized data using multiple classification algorithms
+# credit_card_fraud_detection
+Credit Card Fraud detection based on anonymized data using multiple classification algorithms
